@@ -1,0 +1,7 @@
+{
+  "name": "Document Scanner",
+  "description": "A minimalist productivity app to scan documents, extract text using AI, edit, sign, and export to PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
